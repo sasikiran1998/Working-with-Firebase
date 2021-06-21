@@ -38,4 +38,10 @@ Firebase Basic installation, dynamic website hosting using Node.js is done.
 * Run the project.
 * ```firebase serve --only functions,hosting```
 
+## Screenshots :
+
+![image](https://user-images.githubusercontent.com/69857268/122757961-daff2580-d2b5-11eb-96ef-ec5f67ce5279.png)
+
+
+![image](https://user-images.githubusercontent.com/69857268/122757972-dfc3d980-d2b5-11eb-998e-0af16874be9d.png)
 
